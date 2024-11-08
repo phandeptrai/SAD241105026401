@@ -1,1 +1,12 @@
-![Use Case Diagram](https://www.planttext.com/api/plantuml/svg/T58nJiCm5DrzYg_iN06roi804aXjnLPPiML79D-LxS1GCJ4m0WT0Ac822OcLHeZ15VVm2RW2JaiJfu0dw_tttl_lsr_rny1OgcrL5eHcLcaO6wv_haDMvaY8vfcbA0eEoO6lhy5ANz-XI61E89pAy8oQK5pThgvG04g_V9abG0sCq-cX4i6Znplb9HY_V4IO1UfJkQLESdvnh1MhCclwYf5qptqDdBk50f7x-WQaMpJJR4o6Z8rK6XBjEb2KO9Lxm2qpbJmxKzKEyQHQTodSEw3uVFNrVGxClNKDZYXImPijcN-)
+LAB 0
+Mục đích
+Sử dụng kết hợp GitHub và PlantText để viết tài liệu thiết kế phần mềm.
+Thực hiện
+
+Biểu đồ Use Case Diagram
+
+![Use Case Diagram](https://www.planttext.com/api/plantuml/svg/T58nJiCm5DrzYg_iN06roi804aXjnLPPiML79D-LxS1GCJ4m0WT0Ac822OcLHeZ15VVm2RW2JaiJfu0dw_tttl_lsr_rny1OgcrL5eHcLcaO6wv_haDMvaY8vfcbA0eEoO6lhy5ANz-XI61E89pAy8oQK5pThgvG04g_V9abG0sCq-cX4i6Znplb9HY_V4IO1UfJkQLESdvnh1MhCclwYf5qptqDdBk50f7x-WQaMpJJR4o6Z8rK6XBjEb2KO9Lxm2qpbJmxKzKEyQHQTodSEw3uVFNrVGxClNKDZYXImPijcN-LVwNRwDfybuGq7h2ttsqf0dgxYF0kNWIsISZwnNgUCHAF_XjlsmquikO_V0C00F__0m00)
+
+3. Biểu đồ Class Dỉagram
+
+![Use Case Diagram](https://www.planttext.com/api/plantuml/svg/UhzxlqDnIM9HIMbk3XTNSavYSR52S5WrbuA2ScQAWfL2Pbu9Y9sNc9jgfL1SKfIPbmxY9wQdmYM12AX58pD51wHA1oYbQSt5LOimpJC4P9wklt-0bK9QJduYI9Dki2ionz550S456UWIugIX2HS3cSOL7APWKwEh2pQGoo4rBmNeP000003__mC0)
